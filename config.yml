@@ -1,29 +1,29 @@
-#Ol·,
-#LanÁamos hoje uma novidade para donos de servidores, uma ferramenta que irar auxiliar-los em dar uma cara nova para seu servidores.
-#Esperamos que gostem desta novidade. As ferramentas s„o mais uma exclusividade para membros que possuem conta na gamersboard e pretendemos lanÁar mais novidades em breve.
-#Portanto, se n„o adquiriu o seu plugin, n„o perca tempo! Adquira-o agora mesmo baixando na gamersboard.
+#Ol√°,
+#Lan√ßamos hoje uma novidade para donos de servidores, uma ferramenta que irar auxiliar-los em dar uma cara nova para seu servidores.
+#Esperamos que gostem desta novidade. As ferramentas s√£o mais uma exclusividade para membros que possuem conta na gamersboard e pretendemos lan√ßar mais novidades em breve.
+#Portanto, se n√£o adquiriu o seu plugin, n√£o perca tempo! Adquira-o agora mesmo baixando na gamersboard.
 
-#Boom, aqui È muito simples, simplemente vai lhe dar a opÁ„o de colocar cores na mensagem do seu whitelist.
+#Boom, aqui √© muito simples, simplemente vai lhe dar a op√ß√£o de colocar cores na mensagem do seu whitelist.
 Whitelist:
   Studio:
     NovaMensagem: true
-WhitelistMensagem: "&c&lNOMEDOSERVIDOR &cEstamos em manutenÁ„o global, voltamos em alguns minutos."
+WhitelistMensagem: "&c&lNOMEDOSERVIDOR &cEstamos em manuten√ß√£o global, voltamos em alguns minutos."
 
 ServidorCheio:
   NovaMensagem: true
-FullMensagem: "&eEstamos a sofrer de superlotanÁ„o no momento, adquira vip no nosso sÌtio web para poder entrar com ele mesmo cheio."
+FullMensagem: "&eEstamos a sofrer de superlotan√ß√£o no momento, adquira vip no nosso s√≠tio web para poder entrar com ele mesmo cheio."
 
 Help:
   NovaMensagem: true
-HelpMensagem: "&fComando n„o encontrado digite "/ajuda" para poder encontrar auxilio."
+HelpMensagem: "&fComando n√£o encontrado digite /ajuda para poder encontrar auxilio."
 
-#Basicamente o plugin permite vocÍs editarem-a as mensagens do spigot.yml, mais o diferencial que aqui vocÍ pode colocar cores nas mensagens.
+#Basicamente o plugin permite voc√™s editarem-a as mensagens do spigot.yml, mais o diferencial que aqui voc√™ pode colocar cores nas mensagens.
 
 #Plugin Criado por HanielFialho
 #Postado Na http://gamersboard.com.br/
 #Nick: BEED
-#Vers„o 1.0
-#Bugs? n„o encontrado.
+#Vers√£o 1.0
+#Bugs? n√£o encontrado.
 
 
-#Sua luta n„o termina quando sentir cansaÁo, mas sim quando atingir o sucesso t„o merecido.
+#Sua luta n√£o termina quando sentir cansa√ßo, mas sim quando atingir o sucesso t√£o merecido.
