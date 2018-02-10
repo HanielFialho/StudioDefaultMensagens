@@ -1,0 +1,29 @@
+#Olá,
+#Lançamos hoje uma novidade para donos de servidores, uma ferramenta que irar auxiliar-los em dar uma cara nova para seu servidores.
+#Esperamos que gostem desta novidade. As ferramentas são mais uma exclusividade para membros que possuem conta na gamersboard e pretendemos lançar mais novidades em breve.
+#Portanto, se não adquiriu o seu plugin, não perca tempo! Adquira-o agora mesmo baixando na gamersboard.
+
+#Boom, aqui é muito simples, simplemente vai lhe dar a opção de colocar cores na mensagem do seu whitelist.
+Whitelist:
+  Studio:
+    NovaMensagem: true
+WhitelistMensagem: "&c&lNOMEDOSERVIDOR &cEstamos em manutenção global, voltamos em alguns minutos."
+
+ServidorCheio:
+  NovaMensagem: true
+FullMensagem: "&eEstamos a sofrer de superlotanção no momento, adquira vip no nosso sítio web para poder entrar com ele mesmo cheio."
+
+Help:
+  NovaMensagem: true
+HelpMensagem: "&fComando não encontrado digite "/ajuda" para poder encontrar auxilio."
+
+#Basicamente o plugin permite vocês editarem-a as mensagens do spigot.yml, mais o diferencial que aqui você pode colocar cores nas mensagens.
+
+#Plugin Criado por HanielFialho
+#Postado Na http://gamersboard.com.br/
+#Nick: BEED
+#Versão 1.0
+#Bugs? não encontrado.
+
+
+#Sua luta não termina quando sentir cansaço, mas sim quando atingir o sucesso tão merecido.
